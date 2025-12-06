@@ -13,7 +13,7 @@ Versi terbaru (v1.0.2) dapat diunduh di sini:
 
 ## Video Demo
 Simak demonstrasi fitur dan fungsionalitas aplikasi di link berikut:
-[**Klik untuk menonton video demo anime-verse**](MASUKKAN_LINK_YOUTUBE_ATAU_DRIVE_DISINI)
+[**Klik untuk menonton video demo anime-verse**](https://drive.google.com/file/d/1RwlR8rdRuO-xNT2S3HJrw3fz5JYVlBTI/view?usp=sharing)
 
 ## Fitur Utama
 Aplikasi ini memiliki fitur-fitur sesuai ketentuan tugas:
@@ -77,3 +77,4 @@ Aplikasi ini memiliki fitur-fitur sesuai ketentuan tugas:
 4. Instal file APK tersebut di perangkat Android.
 5. Jika muncul peringatan *"Sumber tidak dikenal"*, aktifkan izin instalasi melalui:
    **Settings → Security → Install unknown apps**.
+
