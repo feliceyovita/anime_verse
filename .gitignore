@@ -51,3 +51,7 @@ app.*.map.json
 **/GoogleService-Info.plist
 .firebase/
 .firebaserc
+
+# Android migration backup folders (should not be committed)
+android_backup/
+android_old/
