@@ -641,7 +641,7 @@
       "name": "anime_verse",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.5"
     }
   ],
   "generator": "pub",
